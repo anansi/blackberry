@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+MIDlet-Version: 1.1
+MIDlet-Jar-Size: 243213
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: Cadiz.jar
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_os,net_rim_bb_browser_field_api,net_rim_xml_org,net_rim_jaxrpc,net_rim_xml,net_rim_bbapi_options,net_rim_bbapi_browser
+RIM-COD-URL-1: ./cods/Cadiz-1.cod
+RIM-COD-SHA1-1: d8 7f 28 ec 4c 4c 5f cc 38 3c b4 19 d2 a7 14 8b f4 a0 33 3c
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Size-1: 76080
+RIM-COD-Module-Name: Cadiz
+MIDlet-Name: Cadiz
+RIM-COD-Size: 66600
+RIM-COD-Creation-Time: 1269850036
+MIDlet-1: Cadiz,cadiz-32x32.png,
+RIM-COD-URL: ./cods/Cadiz.cod
+MIDlet-Description: Application for Cadiz clients to view data
+RIM-COD-SHA1: 80 10 1a 42 d0 61 7a 21 39 f9 68 d9 53 dd d3 95 4a 62 04 96
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: BBD
