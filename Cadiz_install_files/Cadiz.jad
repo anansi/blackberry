@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-MIDlet-Version: 1.1
+MIDlet-Version: 1.2
 MIDlet-Jar-Size: 243213
 MicroEdition-Configuration: CLDC-1.1
 MIDlet-Jar-URL: Cadiz.jar
@@ -14,7 +14,7 @@ RIM-COD-Size: 66600
 RIM-COD-Creation-Time: 1269850036
 MIDlet-1: Cadiz,cadiz-32x32.png,
 RIM-COD-URL: ./cods/Cadiz.cod
-MIDlet-Description: Application for Cadiz clients to view data
+MIDlet-Description: Application for Cadiz clientelle
 RIM-COD-SHA1: 80 10 1a 42 d0 61 7a 21 39 f9 68 d9 53 dd d3 95 4a 62 04 96
 MicroEdition-Profile: MIDP-2.0
-MIDlet-Vendor: BBD
+MIDlet-Vendor: BB&D

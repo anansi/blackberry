@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-MIDlet-Version: 1.1
+MIDlet-Version: 1.2.1
 MIDlet-Jar-Size: 243213
 MicroEdition-Configuration: CLDC-1.1
 MIDlet-Jar-URL: Cadiz.jar
@@ -9,7 +9,7 @@ RIM-COD-SHA1-1: d8 7f 28 ec 4c 4c 5f cc 38 3c b4 19 d2 a7 14 8b f4 a0 33 3c
 RIM-MIDlet-Flags-1: 0
 RIM-COD-Size-1: 76080
 RIM-COD-Module-Name: Cadiz
-MIDlet-Name: Cadiz
+MIDlet-Name: CadizDebug
 RIM-COD-Size: 66600
 RIM-COD-Creation-Time: 1269850036
 MIDlet-1: Cadiz,cadiz-32x32.png,
